@@ -1,0 +1,10 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂÌÚùÿÿÿÿ8Ÿè½¯ç,
+¹%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'org.springframework.ws.client.WebServiceClientException' which is a runtime exception.(µ©ù·8ÅÖ®ç,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ä´«“úÿÿÿÿ8Ÿè½¯ç,
+Tsquid:S1854"8Remove this useless assignment to local variable "name".(Ú‚¡ÿ8þçæ¯ç,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(î‰œž8»ûÜ¯ç,
+Esquid:S1481")Remove this unused "name" local variable.(Ú‚¡ÿ8þçæ¯ç,
+¾%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'org.springframework.ws.client.WebServiceClientException' which is a runtime exception.(ÏØ…ˆþÿÿÿÿ8ÅÖ®ç,
+¾%squid:RedundantThrowsDeclarationCheck"‚Remove the declaration of thrown exception 'org.springframework.ws.client.WebServiceClientException' which is a runtime exception.(È××Êøÿÿÿÿ8ÅÖ®ç,

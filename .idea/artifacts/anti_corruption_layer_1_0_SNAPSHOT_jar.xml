@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="anti-corruption-layer-1.0-SNAPSHOT.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/anti_corruption_layer_1_0_SNAPSHOT_jar</output-path>
+    <root id="archive" name="anti-corruption-layer-1.0-SNAPSHOT.jar.war" />
+  </artifact>
+</component>

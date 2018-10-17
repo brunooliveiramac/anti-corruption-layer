@@ -1,0 +1,8 @@
+br/com/spring/integration/types/User.class
+br/com/spring/integration/types/ObjectFactory.class
+br/com/spring/integration/interceptor/Interceptor.class
+br/com/spring/integration/types/UserResponse.class
+br/com/spring/integration/gateway/UserService.class
+br/com/spring/integration/Main.class
+br/com/spring/integration/types/package-info.class
+br/com/spring/integration/types/UserRequest.class
